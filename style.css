@@ -1,0 +1,42 @@
+html {
+  font-family: monospace;
+}
+
+div{
+	align-content: stretch;
+  overflow: scroll;
+}
+
+body{
+  background-image: url("https://media.giphy.com/media/l3vRbTrGdpZrjjco8/source.gif");
+}
+
+
+img {
+  width: 90%;
+	margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+h1 {
+  margin-bottom: 2%;
+  font-size: 50pt;
+  text-align: center;
+  font-weight: bold;
+  color: white
+
+}
+
+
+h2 {
+  background-color: rgba(0, 0, 0, 0.7);
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  font-size:12px;
+  text-align: left;
+  font-weight: lighter;
+  color: #ffffff
+}
